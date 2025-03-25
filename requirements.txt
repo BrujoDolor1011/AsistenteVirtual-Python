@@ -1,0 +1,11 @@
+openai
+customtkinter
+pygame
+pyautogui
+psutil
+requests
+speechrecognition
+pyttsx3
+datetime
+pycaw
+comtypes
