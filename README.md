@@ -6,10 +6,7 @@ Un asistente virtual con interfaz gráfica desarrollado en Python usando **Custo
 ✔ Capturar pantallas  
 ✔ Abrir aplicaciones del sistema  
 ✔ Obtener información del sistema e IP  
-✔ Tomar y leer notas  
-
-## 📸 Captura de Pantalla  
-*(Aquí puedes agregar una imagen de la interfaz gráfica)*  
+✔ Tomar y leer notas   
 
 ## 🚀 Instalación  
 
